@@ -1,0 +1,68 @@
+.section{
+    display: block;
+    margin-left: 0px;
+    margin-right: 160px;
+    position: relative;
+    top: 50px;
+    bottom: 10px; ;
+    border: 0;
+}
+
+.section2{
+    margin: 50px ;
+    padding: 10%;
+
+}
+
+.first{
+    margin: 0%;
+    padding: 0%;
+    border-style: solid ;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+.second{
+    margin: 0%;
+    padding: 0%;
+    border-style: solid ;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+.third{
+    margin: 0%;
+    padding: 0%;
+    border-style: solid ;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+.forth{
+    margin: 0%;
+    padding: 0%;
+    border-style: solid ;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+.fifth{
+    margin: 0%;
+    padding: 0%;
+    border-style: solid ;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+.sixth{
+    margin: 0%;
+    padding: 0%;
+    border-style: solid ;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+.button{
+   text-align: justify;
+   
+ }
