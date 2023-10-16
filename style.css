@@ -1,0 +1,144 @@
+.details {
+    line-height: 100px;
+}
+
+#account {
+    width: 400px;
+    height: 40px;
+    background-color: rgb(76, 139, 76);
+    color: white;
+}
+.body {
+    margin-left: 0%;
+    margin-top: 69px;
+    color: black;
+    background-color: white;
+    width: 480px;
+    height: 670px;
+    text-align: center;
+    
+}
+#email {
+   width: 350px;
+   height: 25px;
+}
+
+#name {
+    width: 350px;
+    height: 25px;
+ }
+
+ #password {
+    width: 350px;
+    height: 25px;
+ }
+
+ #confirm {
+    width: 350px;
+    height: 25px;
+ }
+
+ /* zdfghjkoloiuytrfdfghj */
+
+ #details1 {
+    position: absolute;
+    width: 350px;
+    height: 25px;
+    border-radius: 6px;
+    border-color: rgb(216, 243, 246);
+    
+}
+
+#details2 {
+    position: absolute;
+    width: 350px;
+    height: 25px;
+    border-radius: 6px;
+    border-color: rgb(216, 243, 246);
+}
+
+.name {
+  position: relative;
+  padding: 200px;
+  
+  
+}
+
+
+.birthdate { 
+    padding-left: 358px;
+}
+
+.fname {
+    position: relative;
+    padding: 146px;
+   
+}
+
+.religion {
+    padding-left: 441px;
+   
+}
+
+.nationality {
+    position: relative;
+    padding: 166px;
+}
+
+.cnic {
+    padding-left: 383px; 
+}
+
+.email {
+    position: relative;
+    padding: 199px;
+}
+
+.hafiz {
+    padding-left: 365px;
+}
+
+.province {
+    position: relative;
+    padding: 180px;
+
+}
+
+.phnumber {
+    padding-left: 413px;
+}
+
+.domicile {
+    position: relative;
+    padding: 177px;
+}
+
+.gender {
+    padding-left: 418px;
+}
+
+.mAddress {
+    padding-left: 129px;
+}
+
+.residence {
+    padding-left: 61px;
+}
+
+
+
+#file {
+    background-color: rgb(234, 228, 228) ;
+    
+    color: rgb(0, 0, 0);
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    
+}
+
+.body2 {
+    margin: 0%;
+}
+
+
