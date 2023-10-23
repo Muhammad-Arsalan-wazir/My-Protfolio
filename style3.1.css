@@ -1,0 +1,47 @@
+.about{
+    background: rgb(218, 238, 255);
+    border-radius: 20px;
+    border-style: double;
+    border-width: 200px;
+    color: black;
+    
+}
+
+.section{
+    display: block;
+    margin-left: 0px;
+    margin-right: 80px;
+    position: relative;
+    top: 10px;
+    bottom: 20px; ;
+    border: 0;
+}
+
+.section2{
+    margin: 50px ;
+    padding: 10%;
+
+}
+
+H1{
+   text-decoration: underline;
+   color: rgb(0, 0, 0);
+   margin-left: 400px;
+   padding-top: 60px;
+}
+
+#submit{
+    width: 120px;
+    height: 38px;
+    border-radius: 10px;
+    background: rgb(3, 245, 136);
+}
+.more{
+    margin-left: 1950px;
+    
+}
+
+
+
+
+
