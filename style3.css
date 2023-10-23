@@ -1,10 +1,19 @@
+.about{
+    background: rgb(218, 238, 255);
+    border-radius: 20px;
+    border-style: double;
+    border-width: 200px;
+    color: black;
+    
+}
+
 .section{
     display: block;
     margin-left: 0px;
-    margin-right: 160px;
+    margin-right: 80px;
     position: relative;
-    top: 50px;
-    bottom: 10px; ;
+    top: 10px;
+    bottom: 20px; ;
     border: 0;
 }
 
@@ -14,55 +23,25 @@
 
 }
 
-.first{
-    margin: 0%;
-    padding: 0%;
-    border-style: solid ;
-    border-width: 5px;
-    border-radius: 10px;
+H1{
+   text-decoration: underline;
+   color: rgb(0, 0, 0);
+   margin-left: 400px;
+   padding-top: 60px;
 }
 
-.second{
-    margin: 0%;
-    padding: 0%;
-    border-style: solid ;
-    border-width: 5px;
+#submit{
+    width: 120px;
+    height: 38px;
     border-radius: 10px;
+    background: rgb(3, 245, 136);
+}
+.more{
+    margin-left: 1950px;
+    
 }
 
-.third{
-    margin: 0%;
-    padding: 0%;
-    border-style: solid ;
-    border-width: 5px;
-    border-radius: 10px;
-}
 
-.forth{
-    margin: 0%;
-    padding: 0%;
-    border-style: solid ;
-    border-width: 5px;
-    border-radius: 10px;
-}
 
-.fifth{
-    margin: 0%;
-    padding: 0%;
-    border-style: solid ;
-    border-width: 5px;
-    border-radius: 10px;
-}
 
-.sixth{
-    margin: 0%;
-    padding: 0%;
-    border-style: solid ;
-    border-width: 5px;
-    border-radius: 10px;
-}
 
-.button{
-   text-align: justify;
-   
- }

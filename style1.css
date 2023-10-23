@@ -1,0 +1,75 @@
+.names{
+    margin-left: 200px;
+    padding-top: 100px ;
+}
+
+.text{
+    margin-left: 200px;
+    padding-top: 0px ;
+    
+}  
+#fname{
+    background-color: rgb(247, 244, 240);
+    width: 300px;
+    height: 27px;
+}
+#lname{
+    background-color: rgb(247, 244, 240);
+    width: 300px;
+    height: 27px;
+}
+
+
+.email{
+    margin-left: 200px;
+    padding-top: 1px ;
+}
+#email{
+    background-color: rgb(247, 244, 240);
+    width: 620px ;
+    height: 27px;
+}
+
+.company{
+    margin-left: 200px;
+    padding-top: 0px ;
+}
+#company{
+    background-color: rgb(247, 244, 240);
+    width: 620px ;
+    height: 27px;
+}
+
+.message{
+    margin-left: 200px;
+    padding-top: 0px ;
+}
+
+.review{
+    margin-left: 200px;
+    padding-top: 1px ;
+}
+
+.button2{
+    margin-left: 200px;
+    padding-top: -10px ;
+}
+#mbutton{
+    background-color: rgb(247, 244, 240);
+    width: 640px ;
+    height: 35px; 
+}
+
+
+.all{
+    margin-right: 250px;
+    margin-top: -75px;
+}
+
+
+#info{
+    margin-left: 870px;
+}
+.info{
+    background-color: rgb(65, 156, 192)  ;
+}
